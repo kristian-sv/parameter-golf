@@ -8,5 +8,7 @@ data/manifest.json
 data/docs_selected.jsonl
 .mypy_cache/
 .venv
-logs/wiki/
+logs/
+wiki/
 raw/
+CLAUDE.md
